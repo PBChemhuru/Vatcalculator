@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculations</string>
+    <string name="VAT_exclu">Unit price excl VAT</string>
+    <string name="VAT_inclu">Unit price incl VAT</string>
+    <string name="Clear">Clear</string>
+    <string name="OK">OK</string>
+</resources>
